@@ -1,1 +1,5 @@
-# base-js
+# base js
+
+- JavaScript
+- TypeScript
+- Jest 
