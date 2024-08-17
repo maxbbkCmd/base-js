@@ -22,10 +22,10 @@
     "noImplicitAny": false,
     "noImplicitReturns": true,
     "resolveJsonModule": false,
-    "declaration": true,
+    "declaration": true
   },
   "include": [
     "src",
-    "config.ts",
+    "config.ts"
   ]
 }
