@@ -1,42 +1,42 @@
-export const userData = {
-  user1: {
+export const userData = [
+  {
     id: 1,
-    name: "Lydmila Ivanova",
+    name: 'Lydmila Ivanova',
     age: 49,
-    city: "Moskow",
+    city: 'Moskow',
     phone: '89263113112',
     vacation: false,
   },
-  user2: {
+  {
     id: 2,
-    name: "Dmitri Ivanov",
+    name: 'Dmitri Ivanov',
     age: 18,
-    city: "Moskow",
+    city: 'Moskow',
     phone: '89263113112',
     vacation: true,
   },
-  user3: {
+  {
     id: 3,
-    name: "Tamila Ivanova",
+    name: 'Tamila Ivanova',
     age: 30,
-    city: "Moskow",
+    city: 'Moskow',
     phone: '89263113112',
     vacation: true,
   },
-  user4: {
+  {
     id: 4,
-    name: "Alexey Ivanov",
+    name: 'Alexey Ivanov',
     age: 33,
-    city: "Moskow",
+    city: 'Moskow',
     phone: '89263113112',
     vacation: false,
   },
-  user5: {
+  {
     id: 5,
-    name: "Alexey Ivanov",
+    name: 'Alexey Ivanov',
     age: 35,
-    city: "Moskow",
+    city: 'Moskow',
     phone: '89263113112',
     vacation: false,
-  },
-};
+  }
+];
